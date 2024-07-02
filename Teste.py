@@ -20,7 +20,7 @@ print("Hello World!") #a partir daqui é um cometário
 x, y, z = "Laranja", "Banana", "Melancia"
 print(x,y,z)
 
-x = y = z = "Laranja"
+x = y = z = "Laranja" 
 print(x,y,z)
 
 # analisando data type
