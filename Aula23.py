@@ -75,3 +75,13 @@ f.close()
 f = open("arquivo.txt")
 for x in f:
     print(x)
+
+def calcula_media_salarial(id_dep):
+    if id_dep == 10:
+        return 1200
+    elif id_dep == 20:
+        return 2200
+    elif id_dep ==30:
+        return 3200
+    else:
+        return "departamento não encontrado!"
