@@ -1,5 +1,6 @@
 from Aula23 import *
 import csv
+import pandas as pd
 
 
 def calculo(valor1:int, valor2:int):
@@ -78,3 +79,12 @@ for linha in leitor:
     print(linha)
 
 print(arquivo)
+
+arquivo.close()
+
+nome_usuario = input("Informe o nome do usuário:")
+print(f"Nome do usuário é:{nome_usuario}")
+ 
+arquivo = "empregados.csv"
+df = pd.read_csv('empregados.csv', delimiter=";")
+print(df)
