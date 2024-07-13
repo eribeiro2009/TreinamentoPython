@@ -1,0 +1,11 @@
+,id_emp,nome_emp,sobrenome,dt_nascimento,id_status,id_departamento,salario,sexo,dt_admissao
+0,10,João,da Silva Nogueira,2019-08-10,1,1010,1320.0,M,2019-03-20
+1,11,Matheus,Silva Nogueira,2019-05-11,2,1020,1350.1,M,2019-07-14
+2,12,Guilherme,dos Santos Gomes,2018-05-12,1,1030,1081.08,M,2018-06-13
+3,13,Dario,Schidmit Fonseca,2018-08-18,3,1050,2876.4,M,2020-06-18
+4,14,Renato,de Oliveira Neto,2009-06-14,1,1060,2175.6,M,2009-07-15
+5,15,Julio,Vinnicius Junior,2006-03-21,1,1070,1320.0,M,2009-04-20
+6,16,Victoria,Maria Franco,2017-09-12,4,1080,1980.0,F,2019-04-08
+7,17,Renata,Francisca Biancardi,2016-04-08,1,1040,1320.0,F,2016-04-19
+8,18,Italo,Borges Francisco,2013-01-02,2,1030,900.9,M,2016-05-18
+9,19,Leandro,Pereria Junior,2004-11-27,3,1070,3600.0,M,2009-09-16
